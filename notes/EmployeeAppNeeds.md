@@ -1,0 +1,67 @@
+# Pages needed
+- [ ] Login
+- [ ] Register
+- [ ] List of current establishments
+    - [ ] Add/Edit new establishment
+        - [ ] General information
+            - [ ] Images
+            - [ ] Name
+            - [ ] Description
+            - [ ] Address
+        - [ ] Services
+            - [ ] Add new service
+                - [ ] Name
+                - [ ] Description
+                - [ ] Duration
+                - [ ] Price
+                - [ ] Category
+        - [ ] Employees
+            - [ ] Add new employee
+                - [ ] Search by phone number
+            - [ ] List employees
+                - [ ] Remove employee
+                - [ ] Schedule
+                - [ ] Appointments
+    - [ ] Join new establishment
+        - [ ] Search by name
+        - [ ] Search by address
+        - [ ] Search by category
+- [ ] Schedule
+    - [ ] Display general schedule (Time table for the week)
+        - [ ] Filter by establishment 
+    - [ ] Display actual calendar (By day or week)
+        - [ ] Filter by establishment
+    - [ ] Add new schedule
+        - [ ] Select establishment
+        - [ ] Select date
+        - [ ] Select time
+    - [ ] Edit schedule
+        - [ ] Select establishment
+        - [ ] Select date
+        - [ ] Select time
+    - [ ] Add timeoff/vacation/exceptions to schedule
+        - [ ] Select establishment(can be empty)
+        - [ ] Select date
+        - [ ] Select time
+- [ ] Appointments
+    - [ ] Display appointments
+        - [ ] Filter by establishment
+        - [ ] Filter by date
+        - [ ] Filter by employee
+        - [ ] On press open appointment details
+            - [ ] Display appointment details
+            - [ ] Cancel appointment
+            - [ ] Message client
+    - [ ] Add new appointment (in case person goes to the establishment and schedules an appointment or calls it in)
+        - [ ] Select establishment
+        - [ ] Select employee
+        - [ ] Select date
+        - [ ] Select time
+        - [ ] Select service
+        - [ ] Select customer
+- [ ] Settings
+    - [ ] Change password
+    - [ ] Change profile images
+    - [ ] Change name
+    - [ ] Change phone number
+    - [ ] Log out
