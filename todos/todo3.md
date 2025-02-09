@@ -20,6 +20,7 @@ Week 2(03-02-2025 - 09-02-2025):
 
 - [ ] Add employee
     - [ ] Layout/UI
+        - [ ] Move modal on keyboard show
     - [ ] Api integration
     - [ ] Validation
     - [ ] Test
