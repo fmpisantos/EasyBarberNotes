@@ -21,6 +21,7 @@ Week 2(03-02-2025 - 09-02-2025):
 - [ ] Add employee
     - [ ] Layout/UI
         - [ ] Move modal on keyboard show
+    - [ ] Employee can remove himself
+    - [ ] If employee removes all the admins of the establishment the establishment closes (pop a warning)
+    - [ ] Make admin of establishment
     - [ ] Api integration
-    - [ ] Validation
-    - [ ] Test
